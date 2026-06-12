@@ -1,0 +1,343 @@
+Package: com.sweenin.appsyncunified
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: ai.akemi.appsyncunified.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.disablethermalmonitord
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.bvn.disablethermalmonitord.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.ios26theme
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.bvn.ios26theme.ios.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.liquidglass
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.bvn.liquidglass.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.locketgold
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.bvn.locketgold.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.libcspreferenceloader
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.creaturecoding.libcspreferenceloader.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.cc26glass
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.cureux.cc26glass.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.icleanerpro
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.exile90.icleanerpro.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.powerselector11
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.ichitaso.powerselector11.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.solidglassrl
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.ivintagelover.solidglassrl.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.ampere
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.ampere.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.appstoretroller
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.appstoretroller.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.cask3
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.cask3.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.cc26
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.cc26.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.cylinderremade
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.cylinderremade.roothide.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.eneko
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.eneko.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.filzacrack
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.filzacrack.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.floatingdockxvi
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.floatingdockxvi.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.glcolor
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.glcolor.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.iamlazy
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.iamlazy.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.liquidglass26
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.liquidglass26.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.shuffle
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.shuffle.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.visibleisland
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.jtis.visibleisland.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.appleturboboost
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.michael.appleturboboost.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.libgcuniversal
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.mrgcgamer.libgcuniversal.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.artfull
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.nahtedetihw.artfull.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.nan.disablethermalmonitord
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.nan.disablethermalmonitord.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.altlist
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.opa334.altlist.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.ccsupport
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.opa334.ccsupport.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.cahighfps
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.ps.cahighfps.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.astear17
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.pure26.astear17.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.roothide.manager
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.roothide.manager.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.roothide.patcher
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.roothide.patcher.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.patchloader
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.roothide.patchloader.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.nodelay64
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.skyfrost.nodelay64.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.snowboard
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.spark.snowboard.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.filza64bit
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.tigisoftware.filza64bit.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.lockscreenbatterymagsafe
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: com.tomaszpoliszuk.lockscreenbatterymagsafe.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.dopaminebasebinlink
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: dopamine-basebin-link.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.fakeclockup
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: jp.nov.fakeclockup.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.patchesfilza
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: roothide.patches.filza.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.rootlesscompat
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: rootless-compat.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
+
+Package: com.sweenin.xyz.disablethermalmonitord
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: xyz.cypwn.disablethermalmonitord.deb
+Size: 100000
+Description: Personal tweak library
+Section: Tweaks
